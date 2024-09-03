@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09408ca794ed2a46a8caf5a4e43c483, type: 3}
+  m_Name: Q_10
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Q_10
+  IdForUI: 7
+  QuestName: ONE TIME COMBO X7
+  QuestDiscription: 
+  LevelRequired: 0
+  QuestsRequire: []
+  TaskPrefabs:
+  - {fileID: 8021373877478374956, guid: 407a47c23fb34eb44b6e960c4f742631, type: 3}
+  ItemReward: {fileID: 11400000, guid: 5c9a878ed279c4953b1cb3da8cd0812d, type: 2}

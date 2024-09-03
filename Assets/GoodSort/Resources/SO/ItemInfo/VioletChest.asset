@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 288bae1f2ccae4d859e5abf05df2eae7, type: 3}
+  m_Name: VioletChest
+  m_EditorClassIdentifier: 
+  Name: VioletChest
+  Sprite: {fileID: 21300000, guid: 8fbe3bbfcfc694b93bce21fe66a3e416, type: 3}
+  ItemType: 11
+  ChestItems:
+  - {fileID: 11400000, guid: 07e461ddabd5d4bbe8a87e8691d5a221, type: 2}
+  - {fileID: 11400000, guid: bfbbd9300e7c14f9d9bea743b451cccb, type: 2}
+  - {fileID: 11400000, guid: 911d5a52e50964be3977b8c66352ca4a, type: 2}
+  ChestItemQuantity: c80000000200000002000000

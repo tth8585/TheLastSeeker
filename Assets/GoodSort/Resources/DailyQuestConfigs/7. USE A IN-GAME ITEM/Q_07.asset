@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09408ca794ed2a46a8caf5a4e43c483, type: 3}
+  m_Name: Q_07
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Q_07
+  IdForUI: 3
+  QuestName: USE A IN-GAME ITEM
+  QuestDiscription: 
+  LevelRequired: 0
+  QuestsRequire: []
+  TaskPrefabs:
+  - {fileID: 7231223996004374129, guid: cb4b17913bd860347afeb74dfef5fdff, type: 3}
+  ItemReward: {fileID: 11400000, guid: bfbbd9300e7c14f9d9bea743b451cccb, type: 2}
